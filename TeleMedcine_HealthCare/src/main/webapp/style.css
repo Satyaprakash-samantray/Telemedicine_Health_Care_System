@@ -1,0 +1,13 @@
+@charset "UTF-8";
+
+body{
+	background-image: url("login1.jpg");
+	background-repeat: no-repeat;
+	background-size: 100%;
+}
+.select{
+	
+	display: grid;
+	place-items: center;
+	height:30vh;
+}
